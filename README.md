@@ -8,8 +8,6 @@ You can see some of my experience in these areas on my Linkedin page(pinned in t
 
 Here are some of the tools I use most in my personal projects and studies 🔧:
 
-Python - HTML5 - CSS3 - JavaScript - MySQL - Git - GitHub - Linux - AutoCAD
-
 <div id="images">
   <img src="PythonPic.png" width="40px">
   <img src="HTMLPic.png" width="40px">
