@@ -9,29 +9,6 @@ You can see some of my experience in these areas on my Linkedin page(pinned in t
 Here are some of the tools I use most in my personal projects and studies 🔧:
 Python - HTML5 - CSS3 - JavaScript - MySQL - Git - GitHub - Linux - AutoCAD
 
-<style>
-  #images {
-    position: absolute;
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto auto;
-    grid-gap: 45px;
-    top: 27%
-  }
-
-  #navigation {
-    position: absolute;
-    display: grid;
-    grid-template-columns: auto auto;
-    grid-gap: 20px;
-    top: 40%;
-  }
-
-  #text_contacts {
-    position: absolute;
-    top: 35%;
-  }
-</style>
-
 <div id="images">
   <img src="PythonPic.png" width="40px">
   <img src="HTMLPic.png" width="40px">
