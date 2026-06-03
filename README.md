@@ -9,14 +9,14 @@ You can see some of my experience in these areas on my Linkedin page(pinned in t
 Here are some of the tools I use most in my personal projects and studies 🔧:
 
 <div id="images">
-  <img src="PythonPic.png" width="40px">
-  <img src="HTMLPic.png" width="40px">
-  <img src="CSSPic.png" width="40px">
-  <img src="JavaScriptPic.png" width="40px">
-  <img src="MySQLPic.png" width="80px">
-  <img src="GitPic.png" width="40px">
-  <img src="GitHubPic.png" width="40px">
-  <img src="AutoCADPic.png" width="40px">
+  <img src="PythonPic.png" width="40px" alt="Python">
+  <img src="HTMLPic.png" width="40px" alt="HTML">
+  <img src="CSSPic.png" width="40px" alt="CSS">
+  <img src="JavaScriptPic.png" width="40px" alt="JavaScript">
+  <img src="MySQLPic.png" width="80px" alt="MySQL">
+  <img src="GitPic.png" width="40px" alt="Git">
+  <img src="GitHubPic.png" width="40px" alt="GitHub">
+  <img src="AutoCADPic.png" width="40px" alt="AutoCAD">
 </div>
 
 <p id="text_contacts">Contacts:</p>
