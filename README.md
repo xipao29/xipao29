@@ -1,7 +1,7 @@
 Hi!
 
 I'm a Computer Enginnering Student who seeks to learn more about Full-Stack with 
-Python, HTML, CSS, JavaScipt and other usefull tools. 👨🏻‍💻
+Python, HTML, CSS, JavaScript and other usefull tools. 👨🏻‍💻
 
 I have interest in robotics too, and cool projects with circuit boards. 
 You can see some of my experience in these areas on my Linkedin page(pinned in this profile)! 
