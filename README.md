@@ -6,7 +6,7 @@ Python, HTML, CSS, JavaScript and other usefull tools. 👨🏻‍💻
 I have interest in robotics too, and cool projects with circuit boards. 
 You can see some of my experience in these areas on my Linkedin page(pinned in this profile)! 
 
-Here are some of the tools I use most in my personal projects and studies 🔧:
+<h1>Here are some of the tools I use most in my personal projects and studies 🔧:</h1>
 
 <div id="images">
   <a href="https://www.python.org/" target="_blank"><img src="PythonPic.png" width="40px" alt="Python"></a>
@@ -19,7 +19,7 @@ Here are some of the tools I use most in my personal projects and studies 🔧:
   <a href="https://www.autodesk.com/br/products/autocad/overview" target="_blank"><img src="AutoCADPic.png" width="40px" alt="AutoCAD"></a>
 </div>
 
-<p id="text_contacts">Contacts:</p>
+<h2><p id="text_contacts">Contacts:</p></h2>
 
 <nav id="navigation">
   <a href="https://www.linkedin.com/in/felipe-andrade-lopes-7223443b1" target="_blank"> 
